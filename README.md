@@ -2,7 +2,7 @@
 
 **Tasveer** (तस्वीर, "picture") turns a photo into plain SMS text. The other person pastes that text into Tasveer and gets the photo back. Neither phone needs mobile data or Wi‑Fi; only normal SMS is used.
 
-**Live demo:** https://YOUR-PROJECT.vercel.app
+**Live demo:** https://image-through-text.vercel.app/
 **Works offline:** download `index.html` once and open it in Chrome. It doesn't need a server, an install or any dependencies.
 
 <!-- Add a screenshot or GIF here: ![Tasveer demo](docs/demo.gif) -->
