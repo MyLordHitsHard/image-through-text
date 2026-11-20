@@ -10,8 +10,22 @@
 ---
 
 ## Why
-
+ 
 In many places there is phone signal but no usable data: hill areas, villages, during disasters, or on a phone without a data pack. SMS still works there. Tasveer squeezes a picture into as few SMS as possible.
+ 
+### The story behind it
+ 
+I'm from Jammu & Kashmir. There were long stretches when we lived for months without mobile internet. We could still make calls and, at times, send SMS, but we couldn't share a single photo with family.
+ 
+The obvious answer is "just send an MMS". It didn't work. MMS looks like a text message, but under the hood it travels over mobile data, so when data is switched off, MMS goes down with it. Plain SMS uses a different channel and keeps working.
+ 
+That's where the idea came from. If only SMS gets through, put the picture inside the SMS.
+ 
+**When Tasveer helps**
+- **Internet shutdowns:** sharing a photo of a document, a prescription, an injury or a family member when only SMS works.
+- **Disasters and network congestion:** after floods or earthquakes, data often fails first and short messages still get through.
+- **Remote areas:** hills, borders and villages with 2G signal but no usable data.
+- **No data pack or a basic phone plan:** sending a photo without paying for data.
 
 ## Features
 
